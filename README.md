@@ -1,5 +1,5 @@
-# INFO2222 project
-INFO2222 assignment 1 based on vue.js and flask. One-to-one private chat using Vue.js, Flask, Socket.io, Sqlite3.
+# Project
+This repository is for University of Sydney INFO2222 assignment 1, based on vue.js and flask. One-to-one private chat using Vue.js, Flask, Socket.io, Sqlite3.
 
 ## Preface
 
@@ -16,7 +16,7 @@ INFO2222 assignment 1 based on vue.js and flask. One-to-one private chat using V
 First, clone this repository to your local machine:
 
 ```sh
-$ git clone https://github.com/LawsonHan/vue-flask-login.git
+$ git clone https://github.com/Lawson-Han/vue-flask-private-chat.git
 ```
 
 ### Running the App
