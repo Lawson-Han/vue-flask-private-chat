@@ -1,5 +1,6 @@
 # Project
 This repository is for University of Sydney INFO2222 assignment 1, based on vue.js and flask. One-to-one private chat using Vue.js, Flask, Socket.io, Sqlite3.
+> If you like this project, please smash Star for me! I'll put it on resume and you can help me to find a job :]
 
 ## Preface
 
